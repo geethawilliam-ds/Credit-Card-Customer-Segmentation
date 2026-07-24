@@ -1,0 +1,19 @@
+artifact_path: file:c:/Projects/Credit-Card-Customer-Segmentation/mlruns/1/models/m-0d300582bf2d4847ab718c59f8ba23ff/artifacts
+flavors:
+  sklearn:
+    code: null
+    pickled_model: model.skops
+    serialization_format: skops
+    sklearn_version: 1.9.0
+    skops_trusted_types: null
+mlflow_version: 3.14.0
+model_id: m-0d300582bf2d4847ab718c59f8ba23ff
+model_size_bytes: 222573
+model_uuid: m-0d300582bf2d4847ab718c59f8ba23ff
+prompts: null
+run_id: 8bcff684f9c045bd96ee637b0cdd0597
+saved_input_example_info:
+  artifact_path: input_example.json
+  serving_input_path: serving_input_example.json
+  type: ndarray
+utc_time_created: '2026-07-24 18:46:53.108685'
